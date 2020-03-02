@@ -33,9 +33,9 @@ There are two components to this lesson:
 
 **To do the in-class exercises, you can either...* 
 
-1. Fork and clone this repository to your local machine and work in the relevant files
+1. Fork and clone this repository to your local machine and work in the relevant files.
 1. Use [this codepen](https://codepen.io/GAmarketing/pen/bZGMaQ?editors=0010#0) provided by the myGA Balancing Binary Trees module, and [this codepen](https://codepen.io/GAmarketing/pen/JzjvvE?editors=0010#0) for the Graph exercise.
-1. Regardless of which way you choose, the exercises are the same (but the codepen has testing)
+1. Regardless of which way you choose, the exercises are the same (but the codepen has testing).
 
 ## Additional Resources
 - AVL Tree [visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
