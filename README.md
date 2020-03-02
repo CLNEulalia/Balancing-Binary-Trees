@@ -6,7 +6,7 @@ In our last lesson, we heard about the efficiency and power of binary trees. But
 
 We will also cover Graphs. Graphs are your favorite data structure that you (maybe) didn’t even know about. They power social media, maps, and more! We’ll also learn the basics of the graph data structure and how they’re implemented.
 
-This concludes the Computer Science modules included in the myGA Learning Path, but this is just the beginning of your journey into Computer Science fundamentals! After the end of the course, feel free to return to these modules to review, reflect, and prepare for technical interviews. Many developers also use [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) to help them prep for the technical interview and whiteboarding challenges. 
+This concludes the Computer Science modules included in the myGA Learning Path, but this is just the beginning of your journey into Computer Science fundamentals! After the end of the course, feel free to return to these modules to review and reflect at your own pace to prepare for technical interviews. Many developers also use [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) to help them prep for the technical interview and whiteboarding challenges. 
 
 ## Learning Objectives
 
