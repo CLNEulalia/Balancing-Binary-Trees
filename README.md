@@ -38,4 +38,5 @@ There are two components to this lesson:
 
 ## Additional Resources
 - AVL Tree [visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
-- Coding interview questions and practice problems on [binary trees](https://medium.com/@codingfreak/binary-tree-interview-questions-and-practice-problems-439df7e5ea1f)
+- Practice building a graph [visually](https://visualgo.net/en/graphds?slide=1)
+- Common graph interview [questions AND solutions](https://medium.com/@codingfreak/graph-data-structure-interview-questions-and-practice-problems-22d5cd488855)
