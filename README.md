@@ -31,7 +31,7 @@ There are two components to this lesson:
 1. myGA module on [Balancing Binary Trees](https://my.generalassemb.ly/activities/263)
 2. myGA module on [Graphs](https://my.generalassemb.ly/activities/403)
 
-**To do the in-class exercises, you can either...* 
+**To do the in-class exercises, you can either...** 
 
 1. Fork and clone this repository to your local machine and work in the relevant files.
 1. Use [this codepen](https://codepen.io/GAmarketing/pen/bZGMaQ?editors=0010#0) provided by the myGA Balancing Binary Trees module, and [this codepen](https://codepen.io/GAmarketing/pen/JzjvvE?editors=0010#0) for the Graph exercise.
