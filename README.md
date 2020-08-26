@@ -8,6 +8,12 @@ We will also cover Graphs. Graphs are your favorite data structure that you (may
 
 These two modules conclude the Computer Science modules included in the myGA Learning Path, but this is just the beginning of your journey into Computer Science fundamentals! After the end of the course, feel free to return to these modules to review and reflect at your own pace to prepare for technical interviews. Many developers also use [Cracking the Coding Interview](http://ahmed-badawy.com/blog/wp-content/uploads/2018/10/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf) to help them prep for the technical interview and whiteboarding challenges. 
 
+## Homework Instructions 
+
+Complete the activity as outlined below. When you are finished, submit an an issue answering the exit ticket questions to summarize your learning on this topic! 
+
+Unless otherwise stated, homework is due by 10:00 am ET the next morning.
+
 ## Learning Objectives
 
 **Balancing Binary Trees:**
