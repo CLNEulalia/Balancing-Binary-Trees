@@ -13,7 +13,7 @@ assignees: ''
 
 2. What are the different types of imbalances? Give a short description of each. 
 
-3. What is a right-left imbalance, and how would you correct it? 
+3. What is an example of a tree with a right-left imbalance, and how would you correct it? 
 
 ## Graphs
 
