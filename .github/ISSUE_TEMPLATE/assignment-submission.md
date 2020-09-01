@@ -21,6 +21,6 @@ assignees: ''
 
 2. How are graphs similar to trees? How are they different? 
 
-3. What is the difference between a directed and a undirected graph? 
+3. What is the difference between a directed and an undirected graph? 
 
 4. What are the two ways to traverse a graph, and when would you use each?
