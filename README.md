@@ -34,4 +34,6 @@ There are two components to this lesson:
 1. Regardless of which way you choose, the exercises are the same (but the codepen has testing).
 
 ## Additional Resources
-- AVL Tree [visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+* AVL Tree [visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+* Tree balancing interview prep: [here](https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/) and [here](https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced).
+* [Whiteboarding an AVL tree](https://www.youtube.com/watch?v=rbg7Qf8GkQ4&).
