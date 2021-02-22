@@ -8,7 +8,7 @@ In our last lesson, we heard about the efficiency and power of binary trees. But
 
 Complete the activity as outlined below. When you are finished, submit an an issue answering the exit ticket questions to summarize your learning on this topic! 
 
-Unless otherwise stated, homework is due by 10:00 am ET the next morning.
+Unless otherwise stated, homework is due by 9:00 am ET the next morning.
 
 ## Learning Objectives
 
